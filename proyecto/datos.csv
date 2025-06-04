@@ -1,0 +1,6 @@
+case_id,activity,timestamp,resource
+1001,Pedido recibido,2025-06-01 09:00:00,Ana
+1001,Validación,2025-06-01 10:00:00,Pedro
+1001,Aprobación,2025-06-01 11:30:00,Juan
+1002,Pedido recibido,2025-06-01 09:15:00,Ana
+1002,Rechazo,2025-06-01 09:45:00,Marta
