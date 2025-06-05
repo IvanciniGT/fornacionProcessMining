@@ -1,0 +1,9 @@
+Métrica,Valor,Unidad
+Casos totales simulados,50.0,casos
+Casos completados,50.0,casos
+Tiempo promedio por caso,1.15,horas
+Tiempo máximo por caso,2.89,horas
+Tiempo mínimo por caso,0.24,horas
+Throughput promedio,17.28,casos/hora
+Variantes diferentes,2.0,variantes
+Recursos utilizados,4.0,recursos
